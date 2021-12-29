@@ -1,0 +1,5 @@
+azurerm_resource_group = "TF-Group"
+rg_location = "East us"
+function_app_name = "fra-poc-demo"
+app_service_plan_name = "fra-ott-poc"
+storage_account_name = "frastorepoc007"
